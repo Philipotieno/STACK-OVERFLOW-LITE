@@ -29,6 +29,10 @@
     text-decoration: none;
     background: #3186c6;
     font-size: 17px;
+
+}
+#login:hover {
+	background: #4DC408;
 }
 
 /* Style the search box inside the navigation bar */
