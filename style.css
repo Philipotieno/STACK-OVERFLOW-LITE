@@ -114,6 +114,20 @@ label {
     clear: both;
 }
 
+.btn1{
+    border:1px solid white;
+    border-radius: 25px;
+    padding:10px 40px;
+    color:white;
+    text-decoration: none;
+    margin-right:5px;
+    font-size:13px;
+    background-color: #3186c6;
+    font-family:sans-serif;
+}
+.btn1:hover {
+	background: #4DC408;
+
 /* Responsivenes */
 @media screen and (max-width: 500px) {
   .topnavbar a, .topnavbar input[type=text], .footer {
