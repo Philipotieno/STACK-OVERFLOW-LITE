@@ -64,9 +64,9 @@
   	overflow: auto;
 }
 .container {
+		padding: 20px;
+	padding-left: 50px;
 	background: #347cef;
-	height: 700px;
-	width: 100%;
 }
 .column {
   float: left;
